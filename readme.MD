@@ -1,4 +1,3 @@
-```markdown
 # Low-Level Design Code Snippets and Information Repository
 
 This repository serves as a comprehensive collection of code snippets, design patterns, and architectural insights related to low-level design (LLD) principles. It aims to provide practical examples and explanations to aid software engineers in crafting efficient, maintainable, and robust software systems.
@@ -24,6 +23,3 @@ The repository is organized into the following sections:
 ## Contribution Guidelines
 
 Contributions to this repository are welcome and encouraged. If you have a code snippet, design pattern example, or architectural insight that you would like to share, please submit a pull request.
-
-
-```
